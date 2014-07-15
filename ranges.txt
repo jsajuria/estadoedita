@@ -1,0 +1,69 @@
+govtEntities = {
+
+"Ministerio de Agricultura":["163.247.40."],
+
+"Ministerio de Bienes Nacionales":["163.247.41."],
+
+"Ministerio de Defensa":["163.247.42."],
+
+"Ministerio de Economía":["163.247.43."],
+
+"Ministerio de Educación":["163.247.44."],
+
+"Ministerio de Hacienda":["163.247.45."],
+
+"Ministerio de Justicia":["163.247.46."],
+
+"Ministerio de Minería":["163.247.47."],
+
+"Ministerio de Obras Públicas":["163.247.48."],
+
+"Ministerio de Planificación y Cooperación":["163.247.49."],
+
+"Ministerio de Relaciones Exteriores":["163.247.50."],
+
+"Ministerio de Salud":["163.247.51."],
+
+"Ministerio de Transportes y Telecomunicaciones":["163.247.52."],
+
+"Ministerio de Vivienda y Urbanismo":["163.247.53."],
+
+"Ministerio del Trabajo y Previsión Social":["163.247.55."],
+
+"Ministerio Secretaría General de Gobierno":["163.247.56."],
+
+"Ministerio Secretaría General de la Presidencia":["163.247.57."],
+
+"Servicio Nacional de la Mujer":["163.247.58."],
+
+"Comisión Nacional de Energía":["163.247.59."],
+
+"Contraloría General de la República":["163.247.60."],
+
+"Fondo Nacional de Salud":["163.247.61."],
+
+"Instituto de Normalización Previsional":["163.247.62."],
+
+"Servicio de Impuestos Internos":["163.247.63."],
+
+"Servicio de Registro Civil e Identificación":["163.247.64."],
+
+"Tesorería General de la República":["163.247.65."],
+
+"Ministerio del Interior":["163.247.70."],
+
+"Presidencia de la República":["163.247.71."],
+
+"Ministerio del Medio Ambiente":["163.247.78."],
+
+"Superintendencia de Pensiones":["163.247.79."],
+
+"Ministerio de Salud (Hospitales y Consultorios)":["163.247.80."],
+
+"Senado de la República de Chile": ["200.14.67."],
+
+"Cámara de Diputados de Chile": ["200.14.66."],
+
+"Congreso Nacional de Chile": ["200.0.66."]
+
+}
